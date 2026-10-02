@@ -15,10 +15,13 @@ create a new environment for every project
 conda create -p venv python==3.7 -y
 ---
 
-activate environment
-
+Activate environment
 
 ---
 conda activate venv/
 ---
+
+install required libraries in requirements.txt file
+
+pip install -r requirements.txt
 
