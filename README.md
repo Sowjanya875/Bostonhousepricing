@@ -29,5 +29,5 @@ git config --global user.name
 git congig --global user.email
 git add . -->add all the files to satging area
 git commit -m "commit message" 
-git push origin main
+git push origin main 
 
